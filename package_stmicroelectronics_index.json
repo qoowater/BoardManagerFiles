@@ -503,7 +503,7 @@
          {
           "name": "STM32 MCU based boards",
           "architecture": "stm32",
-          "version": "2.7.1_NOE",
+          "version": "2.7.2",
           "category": "Contributed",
           "url": "https://github.com/qoowater/Arduino_Core_STM32/releases/download/2.7.1/STM32-2.7.1_PatchNOE.tar.bz2",
           "archiveFileName": "STM32-2.7.1_PatchNOE.tar.bz2",
