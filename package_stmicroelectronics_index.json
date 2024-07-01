@@ -507,7 +507,7 @@
           "category": "Contributed",
           "url": "https://github.com/qoowater/Arduino_Core_STM32/releases/download/2.7.1/STM32-2.7.1_PatchNOE.tar.bz2",
           "archiveFileName": "STM32-2.7.1_PatchNOE.tar.bz2",
-          "checksum": "258e73d4a22f955162eb135efe082adcb317d766996f1039820f868c777d25af",
+          "checksum": "SHA-256:258e73d4a22f955162eb135efe082adcb317d766996f1039820f868c777d25af",
           "size": "47081764",
           "boards": [
             {"name": "Nucleo-144"},
